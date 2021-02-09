@@ -1,0 +1,20 @@
+•   Compile  el  primer  programay  ejecútelo  varias  veces. 
+    Responda: ¿por  qué  aparecen  números diferentes cada vez? 
+
+R// Esto se debe a que realmente crea un nuevo proceso en cada iteración
+
+•   Proceda a  compilar  el  segundo  programa y ejecútelo una  vez. ¿Por  qué  aparecen  dos  números distintos a pesar de que estamos ejecutando un único programa?
+R// Esto se debe a que el fork le crea un proceso hijo al proceso padre que se inicializó, entonces tiene 
+otro PID
+
+•   ¿Por qué el primer y el segundo números son iguales? 
+R// Cuando un proceso ejecuta exec, no se crea ningún proceso nuevo. El proceso de llamada es sobrescrito por el 
+programa cuyo nombre de archivo se pasa como primer argumento.
+
+•   En la terminal,ejecute el comando top (que despliega el topde procesos en cuanto a consumo de  CPU)  y  note  
+cuál  es  el  primer  proceso  en  la  lista  (con  identificador  1). ¿Para  qué  sirve  este proceso?
+R// El primer proceso iniciado por el kernel de Linux obtiene PID 1. INIT es el primer programa que se ejecuta en 
+el sistema Linux. Es por eso que se le da el PID 1 y el ID de proceso siempre comenzando desde 1 en Linux.
+Como sabemos, INIT es el primer proceso que se inicia y también es el padre de todos los demás procesos en Linux.
+El PID 1 es el principal responsable de iniciar y apagar el sistema, y cuando un proceso muere y deja hijos, se
+le asignan a él.
