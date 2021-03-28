@@ -27,7 +27,7 @@ int valid_columns, valid_rows;
 int verify_rows()
 {
     omp_set_nested(true);
-    omp_set_num_threads(9);
+    //omp_set_num_threads(9);
 
     int grid[9];
     int valid = 0;
@@ -56,7 +56,7 @@ int verify_rows()
 int verify_rows_args(char temp[ROW][COLUMN])
 {
     omp_set_nested(true);
-    omp_set_num_threads(9);
+    //omp_set_num_threads(9);
 
     int grid[9];
     int valid = 0;
@@ -93,7 +93,7 @@ int verify_rows_args(char temp[ROW][COLUMN])
 int verify_columns()
 {
     omp_set_nested(true);
-    omp_set_num_threads(9);
+    //omp_set_num_threads(9);
 
     int grid[9];
     int valid = 0;
@@ -122,7 +122,7 @@ int verify_columns()
 int verify_sub_matrix()
 {
     omp_set_nested(true);
-    omp_set_num_threads(3);
+    //omp_set_num_threads(3);
 
     char temp_sudoku[ROW][COLUMN];
     int row = 0, column = 0;
@@ -170,7 +170,7 @@ void *complete_row_verification()
 void map_sudoku_from_file(int fd)
 {
     omp_set_nested(true);
-    omp_set_num_threads(9);
+    //omp_set_num_threads(9);
 
     struct stat stat_s;
     int status = fstat(fd, &stat_s);
@@ -196,7 +196,7 @@ void map_sudoku_from_file(int fd)
 
 int main(int argc, char *argv[])
 {
-    omp_set_num_threads(1);
+    // omp_set_num_threads(1);
 
     if (argc < 2)
     {
