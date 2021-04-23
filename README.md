@@ -6,3 +6,4 @@ CC3064 - UVG
 - [x] Lab 2: Communication between OS processes
 - [X] Lab 3: Multithreading (Sudoku Validator)
 - [X] Lab 4: Kernel modules, SystemTap, Grub
+- [X] Lab 5: CPU Scheduling
