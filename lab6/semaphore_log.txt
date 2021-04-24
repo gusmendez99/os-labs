@@ -1,0 +1,278 @@
+Iniciando programa
+Creando threads
+Iniciando thread 22257
+Esperando threads
+22257 - Semaforo abierto con exito
+Iniciando iteracion 1
+Iniciando thread 22258
+Esperando threads
+22258 - Semaforo abierto con exito
+Iniciando iteracion 1
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+Iniciando thread 22259
+Esperando threads
+22259 - Semaforo abierto con exito
+Iniciando iteracion 1
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+Iniciando thread 22260
+Esperando threads
+22260 - Semaforo abierto con exito
+Iniciando iteracion 1
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 2
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+22260 - Recurso devuelto :)
+Iniciando iteracion 2
+Iniciando iteracion 2
+22260 - (!) Recurso tomado
+22259 - Recurso devuelto :)
+22260 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 3
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 3
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 3
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 3
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 4
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 4
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 4
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 4
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 5
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 5
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 5
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 5
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 6
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 6
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 6
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 6
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 7
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 7
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 7
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 7
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 8
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 8
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 8
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 8
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 9
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 9
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 9
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 9
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 10
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 10
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 10
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 10
+22260 - Recurso devuelto :)
+22258 - (!) Recurso tomado
+Iniciando iteracion 11
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 11
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 11
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 12
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 11
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 12
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 12
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 13
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 12
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 13
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 13
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 14
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 13
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 14
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 14
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 15
+22260 - (!) Recurso tomado
+22260 - Buenos dias! Recurso usado
+22258 - Recurso devuelto :)
+Iniciando iteracion 14
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22257 - Recurso devuelto :)
+Iniciando iteracion 15
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 15
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+Iniciando iteracion 16
+22258 - Recurso devuelto :)
+Iniciando iteracion 15
+22260 - (!) Recurso tomado
+22257 - Recurso devuelto :)
+22260 - Buenos dias! Recurso usado
+Iniciando iteracion 16
+22257 - (!) Recurso tomado
+22257 - Buenos dias! Recurso usado
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+Iniciando iteracion 16
+22259 - (!) Recurso tomado
+22259 - Buenos dias! Recurso usado
+22260 - Recurso devuelto :)
+22260 - Semaforo muerto
+Terminando thread 22260
+22257 - Recurso devuelto :)
+22257 - Semaforo muerto
+Terminando thread 22257
+22258 - Recurso devuelto :)
+Iniciando iteracion 16
+22258 - (!) Recurso tomado
+22258 - Buenos dias! Recurso usado
+22259 - Recurso devuelto :)
+22259 - Semaforo muerto
+Terminando thread 22259
+22258 - Recurso devuelto :)
+22258 - Semaforo muerto
+Terminando thread 22258
