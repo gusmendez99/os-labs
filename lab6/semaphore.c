@@ -4,11 +4,22 @@
 #include <string.h>
 #include <pthread.h>
 #include <semaphore.h>
+#include <time.h>
 #include "logger.h"
 
 // Semaphore
 sem_t sem;
 int shared_resources = 0;
+
+void delay(int number_of_seconds) 
+{ 
+    // Converting time into milli_seconds 
+    int milli_seconds = 1000 * number_of_seconds; 
+    // Stroing start time 
+    clock_t start_time = clock();   
+    // looping till required time is not acheived 
+    while (clock() < start_time + milli_seconds); 
+}; 
 
 void *resource_manager(void *custom_logger)
 {
@@ -27,7 +38,7 @@ void *resource_manager(void *custom_logger)
         fprintf(((struct logger *)custom_logger)->info, "%d - Buenos dias! Recurso usado\n", tid);
 
         sem_post(&sem);
-        sleep(0.5);
+        delay(200);
         fprintf(((struct logger *)custom_logger)->info, "%d - Recurso devuelto :)\n", tid);
     }
 
@@ -51,6 +62,7 @@ int main(void)
     pthread_t thread[THREAD_COUNT];
     sem_init(&sem, 0, 1);
 
+    // Pthread creation
     for (int i = 0; i < THREAD_COUNT; i++)
         pthread_create(&thread[i], NULL, *resource_manager, (void *)log_file);
 

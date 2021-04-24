@@ -5,6 +5,7 @@
 #include <string.h>
 #include <pthread.h>
 #include <semaphore.h>
+#include <time.h>
 #include "logger.h"
 
 // Resources
@@ -14,6 +15,17 @@ int shared_resources = 0;
 pthread_cond_t condition;
 pthread_mutex_t mutex;
 
+void delay(int number_of_seconds) 
+{ 
+    // Converting time into milli_seconds 
+    int milli_seconds = 1000 * number_of_seconds; 
+    // Stroing start time 
+    clock_t start_time = clock();   
+    // looping till required time is not acheived 
+    while (clock() < start_time + milli_seconds); 
+}; 
+
+
 // TAKEN FROM THE LAB EXAMPLE
 /* decrease available resources by resources_taken */
 int decrease_count(int resources_taken, void *custom_logger)
@@ -22,7 +34,7 @@ int decrease_count(int resources_taken, void *custom_logger)
     fprintf(((struct logger *)custom_logger)->info, "Recursos suficientes disponibles, consumiendo...\n");
     // Decrease resources
     available_resources -= resources_taken;
-    sleep(0.5);
+    delay(200);
     fprintf(((struct logger *)custom_logger)->info, "Terminando decrease_count\n");
     pthread_mutex_unlock(&mutex);
 }
@@ -87,7 +99,7 @@ int main(void)
     fprintf(file, "Iniciando programa\n");
     fprintf(file, "Creando threads\n");
 
-    // Initializing threads
+    // Pthread creation
     pthread_t thread[THREAD_COUNT];
 
     for (int i = 0; i < THREAD_COUNT; i++)

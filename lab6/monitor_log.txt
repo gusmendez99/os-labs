@@ -1,20 +1,20 @@
 Iniciando programa
 Creando threads
-Iniciando thread 22269
+Iniciando thread 24317
 Iniciando iteracion 1
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
-Iniciando thread 22270
+Iniciando thread 24318
 Iniciando iteracion 1
 Se consumiran 16 recursos
-Iniciando thread 22271
+Iniciando thread 24319
 Iniciando iteracion 1
 Se consumiran 16 recursos
-Iniciando thread 22272
+Iniciando thread 24320
 Iniciando iteracion 1
 Se consumiran 16 recursos
 Terminando decrease_count
@@ -23,8 +23,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 2
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -34,8 +34,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 3
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -45,8 +45,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 4
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -56,8 +56,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 5
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -67,8 +67,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 6
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -78,8 +78,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 7
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -89,8 +89,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 8
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -100,8 +100,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 9
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -111,8 +111,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 10
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -122,8 +122,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 11
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -133,8 +133,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 12
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -144,8 +144,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 13
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -155,8 +155,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 14
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -166,8 +166,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 15
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -177,8 +177,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 16
 Se consumiran 16 recursos
-22269 - (!) Recurso tomado
-22269 - Buenos dias! Recurso usado
+24317 - (!) Recurso tomado
+24317 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -186,8 +186,8 @@ Terminando decrease_count
 Iniciando increase_count
 Terminando increase_count
 Mutex liberado
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -197,8 +197,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 2
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -208,8 +208,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 3
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -219,8 +219,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 4
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -230,8 +230,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 5
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -241,8 +241,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 6
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -252,8 +252,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 7
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -263,8 +263,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 8
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -274,8 +274,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 9
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -285,8 +285,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 10
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -296,8 +296,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 11
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -307,8 +307,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 12
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -318,8 +318,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 13
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -329,8 +329,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 14
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -340,8 +340,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 15
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -351,8 +351,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 16
 Se consumiran 16 recursos
-22270 - (!) Recurso tomado
-22270 - Buenos dias! Recurso usado
+24318 - (!) Recurso tomado
+24318 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -360,8 +360,8 @@ Terminando decrease_count
 Iniciando increase_count
 Terminando increase_count
 Mutex liberado
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -371,8 +371,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 2
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -382,8 +382,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 3
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -393,8 +393,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 4
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -404,8 +404,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 5
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -415,8 +415,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 6
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -426,8 +426,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 7
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -437,8 +437,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 8
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -448,8 +448,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 9
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -459,8 +459,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 10
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -470,8 +470,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 11
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -481,8 +481,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 12
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -492,8 +492,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 13
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -503,8 +503,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 14
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -514,8 +514,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 15
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -525,8 +525,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 16
 Se consumiran 16 recursos
-22272 - (!) Recurso tomado
-22272 - Buenos dias! Recurso usado
+24320 - (!) Recurso tomado
+24320 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -534,8 +534,8 @@ Terminando decrease_count
 Iniciando increase_count
 Terminando increase_count
 Mutex liberado
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -545,8 +545,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 2
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -556,8 +556,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 3
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -567,8 +567,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 4
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -578,8 +578,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 5
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -589,8 +589,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 6
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -600,8 +600,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 7
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -611,8 +611,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 8
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -622,8 +622,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 9
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -633,8 +633,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 10
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -644,8 +644,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 11
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -655,8 +655,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 12
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -666,8 +666,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 13
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -677,8 +677,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 14
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -688,8 +688,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 15
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
@@ -699,8 +699,8 @@ Terminando increase_count
 Mutex liberado
 Iniciando iteracion 16
 Se consumiran 16 recursos
-22271 - (!) Recurso tomado
-22271 - Buenos dias! Recurso usado
+24319 - (!) Recurso tomado
+24319 - Buenos dias! Recurso usado
 Mutex adquirido, entrando al monitor
 Iniciando decrease_count
 Recursos suficientes disponibles, consumiendo...
