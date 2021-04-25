@@ -7,3 +7,4 @@ CC3064 - UVG
 - [X] Lab 3: Multithreading (Sudoku Validator)
 - [X] Lab 4: Kernel modules, SystemTap, Grub
 - [X] Lab 5: CPU Scheduling
+- [X] Lab 6: Threads Sync (Mutex, Semaphores, Monitor)
